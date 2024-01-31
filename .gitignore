@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled JavaScript files
+dist/
+build/
+
+# Environment variables
+.env
+
+# Editor directories and files
+.vscode/
+*.swp
+*.swo
+*.sublime*
+*.idea/
+*.iml
+*.log
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Lock files
+yarn.lock
+package-lock.json
+
+# Debug log from npm
+npm-debug.log*
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
